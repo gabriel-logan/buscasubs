@@ -9,6 +9,6 @@ EX: ./buscasubs sitedeexemplo.com.br subdominios.txt
 
 no javascript mesma coisa
 
-node buscadominios.js businesscorp.com.br subdominios.txt
+node buscadominios.js sitedeexemplo.com.br subdominios.txt
 
-ou node .\buscadominios.js businesscorp.com.br .\subdominios.txt
+ou node .\buscadominios.js sitedeexemplo.com.br subdominios.txt
