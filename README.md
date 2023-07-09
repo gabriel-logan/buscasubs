@@ -14,6 +14,7 @@ node Buscadominios.js sitedeexample.com.br subdomains.txt
 or node .\buscadominios.js sitedeexample.com.br subdominios.txt
 
 #PT
+
 Programa em C utilizado para buscar subdominios em algum site especifico
 
 se baixar o arquivo C para compilar use gcc buscasubs.c -o buscasubs -lncurses
